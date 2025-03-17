@@ -5,6 +5,10 @@
 The **Wobb Web App** redesign aims to create a responsive and visually appealing web version of the Wobb App homepage for the influencer portal using **React.js**. The redesign ensures an organized, user-friendly interface that seamlessly adapts to both desktop and mobile screens.
 
 ---
+## Live 
+🎉 The project is live at [AtharvShukla-Wobb.ai-Task](https://wobb-ai-task-atharvshukla.vercel.app/).
+
+## 🎬 Demo Video  
 
 ## 🎯 Objective
 
