@@ -14,3 +14,5 @@ export interface Campaign {
 }
 
 export type Theme = 'light' | 'dark';
+
+export type Page = 'landing' | 'campaigns';
