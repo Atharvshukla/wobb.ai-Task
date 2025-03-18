@@ -10,6 +10,8 @@ The **Wobb Web App** redesign aims to create a responsive and visually appealing
 
 ## 🎬 Demo Video  
 
+## 📝 Documentation Link:-
+[AtharvShukla-Wobb.ai-Task-Documentation](https://docs.google.com/document/d/1AtFztqNbvAFoCTR5OAqb-U8DLy56CoRauy1TZHnA5nY/edit?usp=sharing).
 ## 🎯 Objective
 
 The goal is to transform the Wobb App homepage into a **responsive web version** that enhances user experience and usability. This web portal will serve as a centralized hub where influencers can explore, apply for, and track **brand campaigns** efficiently.
